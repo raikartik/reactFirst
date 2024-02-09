@@ -1,0 +1,14 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "project created by kartik",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kartik rai",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
