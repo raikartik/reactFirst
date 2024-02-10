@@ -1,1 +1,5 @@
 /node_modules
+/.cache
+/README.md
+/dist
+/package-lock.json
